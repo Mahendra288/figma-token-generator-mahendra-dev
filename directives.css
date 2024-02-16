@@ -1,0 +1,108 @@
+
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+      .container-padding-mobile {
+            @apply s-4
+        }
+  .container-padding-desktop {
+            @apply s-8
+        }
+  .container-max-width-desktop {
+            @apply s-320
+        }
+  .width-xxs {
+            @apply s-80
+        }
+  .width-xs {
+            @apply s-96
+        }
+  .width-sm {
+            @apply s-120
+        }
+  .width-md {
+            @apply s-140
+        }
+  .width-lg {
+            @apply s-160
+        }
+  .width-xl {
+            @apply s-192
+        }
+  .width-2xl {
+            @apply s-256
+        }
+  .width-3xl {
+            @apply s-320
+        }
+  .width-4xl {
+            @apply s-360
+        }
+  .width-5xl {
+            @apply s-400
+        }
+  .width-6xl {
+            @apply s-480
+        }
+  .paragraph-max-width {
+            @apply s-180
+        }
+  .spacing-none {
+            @apply s-0
+        }
+  .spacing-xxs {
+            @apply s-0-5
+        }
+  .spacing-xs {
+            @apply s-1
+        }
+  .spacing-sm {
+            @apply s-1-5
+        }
+  .spacing-md {
+            @apply s-2
+        }
+  .spacing-lg {
+            @apply s-3
+        }
+  .spacing-xl {
+            @apply s-4
+        }
+  .spacing-2xl {
+            @apply s-5
+        }
+  .spacing-3xl {
+            @apply s-6
+        }
+  .spacing-4xl {
+            @apply s-8
+        }
+  .spacing-5xl {
+            @apply s-10
+        }
+  .spacing-6xl {
+            @apply s-12
+        }
+  .spacing-7xl {
+            @apply s-16
+        }
+  .spacing-8xl {
+            @apply s-20
+        }
+  .spacing-9xl {
+            @apply s-24
+        }
+  .spacing-10xl {
+            @apply s-32
+        }
+  .spacing-11xl {
+            @apply s-40
+        }
+
+}
+
+
+@layer utilities{
+    
+}
